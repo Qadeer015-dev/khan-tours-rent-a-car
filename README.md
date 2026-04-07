@@ -71,10 +71,13 @@ npx serve
 
 ## 📞 Contact Information
 
-- **Phone:** 0322 8493730
-- **WhatsApp:** +92 322 8493730
-- **Address:** e, 4 Khayaban, Airline Society, Lahore, 54000
-- **Hours:** Open 24 Hours, Every Day
+- **WhatsApp:** 0321 4067150
+- **Phone:** 0300 4011643
+- **Landline:** 042-36850359
+- **Email:** khan_gee33@hotmail.com
+- **UK Services:** 00447376644402
+- **Address:** Opposite Shalimar Garden, Near Mezan Bank, GT Road, Lahore
+- **Hours:** 10:00 AM - 10:00 PM (Sunday: Off)
 
 ## 🔧 Customization
 
@@ -89,7 +92,7 @@ const yourEmail = 'your-email@example.com';
 
 In `script.js`, update the WhatsApp number:
 ```javascript
-const whatsappNumber = '923228493730'; // Format: CountryCode + Number
+const whatsappNumber = '923214067150'; // Format: CountryCode + Number
 ```
 
 ### Adding/Changing Images

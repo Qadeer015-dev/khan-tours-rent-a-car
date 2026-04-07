@@ -156,8 +156,8 @@ sendEmailBtn.addEventListener('click', () => {
         return;
     }
     
-    // TODO: Replace with your actual email address
-    const yourEmail = 'rabdulqadeer96@gmail.com';
+    // Email address for inquiries
+    const yourEmail = 'khan_gee33@hotmail.com';
     
     // Construct email body
     const subject = encodeURIComponent(`Car Rental Inquiry from ${name}`);
@@ -191,7 +191,7 @@ sendWhatsAppBtn.addEventListener('click', () => {
     }
     
     // WhatsApp number (92 is Pakistan country code)
-    const whatsappNumber = '923228493730';
+    const whatsappNumber = '923214067150';
     
     // Construct WhatsApp message
     const whatsappMessage = encodeURIComponent(
